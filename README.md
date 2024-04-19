@@ -15,7 +15,7 @@
 ![演習問題](src/images/課題リスト%202024-04-15%20152008.png)
 
 
-- [] Pythonの基本
+- [x] [Pythonの基本](src/notebooks/pythonTutorial.ipynb)
 - [] 第1章 評価履歴
 - [] 第2章 評価値行列
 - [] 第3章 類似度に基づく推薦
