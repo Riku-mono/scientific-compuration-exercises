@@ -16,7 +16,7 @@
 
 
 - [x] [Pythonの基本](src/notebooks/pythonTutorial.ipynb)
-- [ ] 第1章 評価履歴
+- [x] [第1章 評価履歴](src/notebooks/chap01.ipynb)
 - [ ] 第2章 評価値行列
 - [ ] 第3章 類似度に基づく推薦
 - [ ] 第4章 k近傍法
