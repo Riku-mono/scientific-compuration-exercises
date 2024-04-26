@@ -18,7 +18,7 @@
 - [x] [Pythonの基本](src/notebooks/pythonTutorial.ipynb)
 - [x] [第1章 評価履歴](src/notebooks/chap01.ipynb)
 - [x] [第2章 評価値行列](src/notebooks/chap02.ipynb)
-- [ ] 第3章 類似度に基づく推薦
+- [x] [第3章 類似度に基づく推薦](src/notebooks/chap03.ipynb)
 - [ ] 第4章 k近傍法
 - [ ] 第5章 ユーザベース協調フィルタリング
 - [ ] 第6章 アイテムベース協調フィルタリング
