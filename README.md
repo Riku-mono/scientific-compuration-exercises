@@ -21,7 +21,7 @@
 - [x] [第3章 類似度に基づく推薦](src/notebooks/chap03.ipynb)
 - [x] [第4章 k近傍法](src/notebooks/chap04.ipynb)
 - [x] [第5章 ユーザベース協調フィルタリング](src/notebooks/chap05.ipynb)
-- [ ] 第6章 アイテムベース協調フィルタリング
+- [x] [第6章 アイテムベース協調フィルタリング](src/notebooks/chap06.ipynb)
 - [ ] 第7章 評価履歴の次元削減
 - [ ] 第8章 評価値行列の次元削減
 - [ ] 第9章 単純ベイズ分類器
