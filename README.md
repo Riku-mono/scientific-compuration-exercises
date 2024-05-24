@@ -23,7 +23,7 @@
 - [x] [第5章 ユーザベース協調フィルタリング](src/notebooks/chap05.ipynb)
 - [x] [第6章 アイテムベース協調フィルタリング](src/notebooks/chap06.ipynb)
 - [x] [第7章 評価履歴の次元削減](src/notebooks/chap07.ipynb)
-- [ ] 第8章 評価値行列の次元削減
+- [x] [第8章 評価値行列の次元削減](src/notebooks/chap08.ipynb)
 - [ ] 第9章 単純ベイズ分類器
 - [ ] 第10章 決定木
 - [ ] 第11章 嗜好予測の正確性
