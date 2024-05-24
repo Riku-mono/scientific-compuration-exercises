@@ -22,7 +22,7 @@
 - [x] [第4章 k近傍法](src/notebooks/chap04.ipynb)
 - [x] [第5章 ユーザベース協調フィルタリング](src/notebooks/chap05.ipynb)
 - [x] [第6章 アイテムベース協調フィルタリング](src/notebooks/chap06.ipynb)
-- [ ] 第7章 評価履歴の次元削減
+- [x] [第7章 評価履歴の次元削減](src/notebooks/chap07.ipynb)
 - [ ] 第8章 評価値行列の次元削減
 - [ ] 第9章 単純ベイズ分類器
 - [ ] 第10章 決定木
