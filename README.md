@@ -25,7 +25,7 @@
 - [x] [第7章 評価履歴の次元削減](src/notebooks/chap07.ipynb)
 - [x] [第8章 評価値行列の次元削減](src/notebooks/chap08.ipynb)
 - [x] [第9章 単純ベイズ分類器](src/notebooks/chap09.ipynb)
-- [ ] 第10章 決定木
+- [x] [第10章 決定木](src/notebooks/chap10.ipynb)
 - [ ] 第11章 嗜好予測の正確性
 - [ ] 第12章 好き嫌い分類に基づく評価推薦
 - [ ] 第13章 推薦順位に基づく評価推薦
