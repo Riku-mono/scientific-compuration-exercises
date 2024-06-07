@@ -27,7 +27,7 @@
 - [x] [第9章 単純ベイズ分類器](src/notebooks/chap09.ipynb)
 - [x] [第10章 決定木](src/notebooks/chap10.ipynb)
 - [x] [第11章 嗜好予測の正確性](src/notebooks/chap11.ipynb)
-- [ ] 第12章 好き嫌い分類に基づく評価推薦
+- [x] [第12章 好き嫌い分類に基づく評価推薦](src/notebooks/chap12.ipynb)
 - [ ] 第13章 推薦順位に基づく評価推薦
 
 ## 使用ライブラリ
